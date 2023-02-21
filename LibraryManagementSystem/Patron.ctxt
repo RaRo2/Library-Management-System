@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Patron
+comment1.params=ID\ name
+comment1.target=Patron(int,\ java.lang.String)
+comment10.params=enteredID
+comment10.target=boolean\ matches(int)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=boolean\ currentlyBorrowingEmpty()
+comment3.params=b
+comment3.target=void\ addBook(Book)
+comment4.params=b
+comment4.target=void\ removeBook(Book)
+comment5.params=
+comment5.target=void\ currentlyBorrowed()
+comment6.params=
+comment6.target=void\ borrowingHistory()
+comment7.params=
+comment7.target=void\ favBooks()
+comment8.params=
+comment8.target=int\ ID()
+comment9.params=
+comment9.target=java.lang.String\ name()
+numComments=12
